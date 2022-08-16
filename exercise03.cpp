@@ -5,6 +5,7 @@ using namespace std;
 int volume(int height, int width, int length);
 
 // 1. Define a structure called Box
+
 // have the integer data types Height, Width, Length
 
 // Do not change the main function
